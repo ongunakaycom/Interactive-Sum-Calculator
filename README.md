@@ -4,14 +4,14 @@ This repository contains the code for a simple web application that allows users
 
 **Live Preview:**
 
-* You can view a live demo of the application here: FILL_IN_YOUR_DEPLOYED_URL. (Replace `here: FILL_IN_YOUR_DEPLOYED_URL` with the actual URL where you deployed the application)
+* You can view a live demo of the application here: https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers/. (`https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers`)
 
 **Getting Started:**
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ongunakaycom/adding-numbers.git
+   git clone https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers
    ```
 
 2. **Open the HTML file:**
