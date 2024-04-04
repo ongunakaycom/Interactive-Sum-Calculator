@@ -4,7 +4,7 @@ This repository contains the code for a simple web application that allows users
 
 **Live Preview:**
 
-* You can view a live demo of the application here: (`https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers`)
+* You can view a live demo of the application here: https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers/.
 
 **Getting Started:**
 
