@@ -55,5 +55,3 @@ Feel free to fork this repository and make improvements! You can add features li
 **License:**
 
 This project is distributed under the MIT License. See the LICENSE file for details.
-
-I hope this README provides a clear overview of the project. Feel free to reach out if you have any questions.
