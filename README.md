@@ -6,15 +6,7 @@ This repository contains the code for a simple web application that allows users
 
 * You can view a live demo of the application here: https://ongunakaycom.github.io/Interactive-Sum-Calculator
 
-**Getting Started:**
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/ongunakaycom/Return-the-Sum-of-Two-Numbers
-   ```
-
-2. **Open the HTML file:**
+**Open the HTML file:**
 
    The main application code is located in the `index.html` file. You can open this file in your web browser to run the application locally.
 
